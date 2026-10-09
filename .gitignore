@@ -1,0 +1,14 @@
+.git-local/
+.agents/
+.codex/
+.aws/
+.gradle/
+**/build/
+local.properties
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+*.iml
+*.jks
+*.keystore

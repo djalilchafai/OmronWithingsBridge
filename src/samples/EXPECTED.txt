@@ -1,0 +1,4 @@
+reference_136_90_61.png  SYS=136 DIA=90 PULSE=61
+reference_111_75_56.png  SYS=111 DIA=75 PULSE=56
+auto_geometry_136_90_61.png  SYS=136 DIA=90 PULSE=61
+auto_geometry_111_75_56.png  SYS=111 DIA=75 PULSE=56

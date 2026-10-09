@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Omron → Withings</string>
+    <string name="fallback_intro">La caméra directe n’est pas active. Vous pouvez la relancer, prendre une photo, choisir une image ou saisir les valeurs.</string>
+    <string name="live_reading">Relancer la lecture directe</string>
+    <string name="live_hint">Visez l’écran : la capture de contrôle se déclenche automatiquement dès que les trois valeurs sont stables.</string>
+    <string name="live_legend">✓ stable   ? en cours</string>
+    <string name="capture_now">Capturer et analyser maintenant</string>
+    <string name="capture_short">Capturer</string>
+    <string name="gallery_short">Galerie</string>
+    <string name="manual_short">Saisie</string>
+    <string name="back_home">Retour</string>
+    <string name="back_to_live">Retour au viseur</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="choose_photo">Choisir une photo existante</string>
+    <string name="photo_hint">Cadrage automatique : l’écran et les mots SYS, DIA et PULSE doivent être nets et visibles.</string>
+    <string name="analyze_photo">Relancer l’analyse automatique</string>
+    <string name="change_photo">Changer de photo</string>
+    <string name="manual_entry">Saisie manuelle</string>
+    <string name="detected_values">Vérifiez la mesure</string>
+    <string name="back_to_photo">Retour</string>
+    <string name="systolic">Systolique (SYS)</string>
+    <string name="diastolic">Diastolique (DIA)</string>
+    <string name="pulse">Pouls</string>
+    <string name="measurement_time">Heure de la mesure</string>
+    <string name="change_time">Modifier date / heure</string>
+    <string name="change_time_short">Heure</string>
+    <string name="save_health_connect">Enregistrer dans Santé Connect</string>
+    <string name="save_short">ENREGISTRER</string>
+    <string name="saving">Enregistrement…</string>
+    <string name="saved">Enregistré ✓</string>
+    <string name="new_measurement">Nouvelle mesure</string>
+    <string name="open_health_connect">Ouvrir les réglages Santé Connect</string>
+    <string name="status_ready">Prêt.</string>
+    <string name="privacy_title">Utilisation des données de santé</string>
+    <string name="privacy_text">Cette application analyse localement les images de l’Omron, puis écrit uniquement la pression artérielle et le pouls que vous avez vérifiés dans Santé Connect. Elle ne lit pas votre historique de santé et n’envoie pas les images vers un serveur.</string>
+    <string name="close">Fermer</string>
+</resources>

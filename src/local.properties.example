@@ -1,0 +1,2 @@
+# Copy to local.properties and adapt the path if necessary.
+sdk.dir=/usr/lib/android-sdk
